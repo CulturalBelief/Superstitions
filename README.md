@@ -64,9 +64,6 @@ Superstitions/
 ├── prompts/
 ├── scripts/
 ├── results/
-├── docs/
-│   ├── DATASET_CARD.md
-│   └── RELEASE_CHECKLIST.md
 ├── LICENSE                
 
 ```
