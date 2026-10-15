@@ -33,7 +33,6 @@
 - **Know:** Recover or verify the association between a culturally documented *trigger* and its *believed consequence*.
 - **Attribute:** Connect a belief to an appropriate cultural context, at both fine-grained and coarse-grained levels.
 - **Calibrate:** Avoid inferring that an individual endorses a belief based on cultural background alone, especially when contextual evidence is incomplete.
-
 **Important distinction:** BAVAR evaluates whether a model accurately represents a *documented belief*. It does **not** evaluate whether a superstition is scientifically true, nor does cultural association imply individual endorsement.
 
 ## Benchmark tasks
@@ -46,17 +45,8 @@
 | **04 · Scenario-Based Reasoning** | Apply the relevant cultural association to a naturalistic situation | Open-ended text | LLM-as-a-judge with partial credit |
 | **05 · Cultural Attribution** | Identify the culture associated with a documented superstition | Culture selection | Fine-grained and coarse-grained accuracy |
 
-The research framework also motivates **belief-aware calibration** under individual-level uncertainty. A dedicated data directory is reserved for this component; its release status should be confirmed before adding files or benchmark numbers.
-
 ## Datasets
-
-Datasets are organized **by evaluation task**, rather than combined into a single difficult-to-navigate file. 
-
-
 **Taxonomy:** Omen · Luck · Protective · Ritual · Divination · Taboo · Contagion · Other.
-
-**Dataset documentation:** See [`data/README.md`](data/README.md) and the [`Dataset Card`](docs/DATASET_CARD.md). The starter repository deliberately contains **no synthetic or fabricated benchmark rows**.
-
 <details>
 <summary><strong>📁 Repository structure</strong></summary>
 
