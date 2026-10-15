@@ -123,6 +123,3 @@ The paper introducing BAVAR is currently under review. A public version of the p
 This repository is licensed under the MIT License. 
 ---
 
-<div align="center">
-  <sub>Built to study cultural knowledge without reducing individuals to cultural stereotypes.</sub>
-</div>
