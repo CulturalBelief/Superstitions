@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Superstitions.png" alt="BAVAR: a watercolor panorama celebrating cultural traditions" width="100%" />
+  <img src="assets/Superstitions-image.png" alt="BAVAR: a watercolor panorama celebrating cultural traditions" width="100%" />
 
   <h1>🌏 BAVAR</h1>
 
