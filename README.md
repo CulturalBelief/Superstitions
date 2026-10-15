@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/bavar-banner.png" alt="BAVAR: a watercolor panorama celebrating cultural traditions" width="100%" />
+  <img src="assets/Superstitions.png" alt="BAVAR: a watercolor panorama celebrating cultural traditions" width="100%" />
 
   <h1>🌏 BAVAR</h1>
 
@@ -50,16 +50,8 @@ The research framework also motivates **belief-aware calibration** under individ
 
 ## Datasets
 
-Datasets are organized **by evaluation task**, rather than combined into a single difficult-to-navigate file. Each folder contains its own README to document the exact schema, labels, counts, sources, and release status once files have been added.
+Datasets are organized **by evaluation task**, rather than combined into a single difficult-to-navigate file. 
 
-| Dataset collection | Folder | Design details from the manuscript | Availability |
-|:--|:--|:--|:--|
-| Knowledge retrieval | [`data/knowledge_retrieval/`](data/knowledge_retrieval/) | Trigger → believed consequence; open-ended questions | Upload pending |
-| Knowledge verification | [`data/verification/`](data/verification/) | Matched True and False statements | Upload pending |
-| Knowledge discrimination | [`data/discrimination/`](data/discrimination/) | Three plausible wrong consequences + None of the Above | Upload pending |
-| Naturalistic scenarios | [`data/scenarios/`](data/scenarios/) | **2,251** retained scenarios following manual review of 2,515 generated scenarios | Upload pending |
-| Cultural attribution | [`data/attribution/`](data/attribution/) | Fine- and coarse-grained culture labels | Upload pending |
-| Belief-aware calibration | [`data/calibration/`](data/calibration/) | Reserved for individual-context calibration material | Not yet specified |
 
 **Taxonomy:** Omen · Luck · Protective · Ritual · Divination · Taboo · Contagion · Other.
 
@@ -124,12 +116,7 @@ Overall score = %Correct + 0.5 × %Partially Correct
 
 For True/False verification, **pair accuracy** is the percentage of matched True/False pairs for which **both** statements are classified correctly. Attribution is evaluated at both specific-culture and broader-region levels.
 
-### Reproducibility
 
-- **Prompts:** [`prompts/`](prompts/) (release placeholder)
-- **Evaluation scripts:** [`scripts/`](scripts/) (release placeholder)
-- **Results and tables:** [`results/`](results/) (release placeholder)
-- **Release checklist:** [`docs/RELEASE_CHECKLIST.md`](docs/RELEASE_CHECKLIST.md)
 
 Source files, exact dataset columns, model versions, and execution commands will be documented in their corresponding directories when released. No script is advertised as runnable until its implementation has been uploaded.
 
