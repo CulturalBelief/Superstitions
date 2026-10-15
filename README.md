@@ -134,8 +134,7 @@ A formal paper link and BibTeX citation will be added when a public version is a
 
 ## License
 
-The repository currently displays an **MIT license** for code. Check the repository's existing [`LICENSE`](LICENSE) file for its terms. **Dataset reuse rights require separate confirmation** because source material includes published cultural reference works; a code license should not automatically be assumed to cover third-party source text or derived annotations.
-
+The repository currently displays an **MIT license** for code. 
 ---
 
 <div align="center">
