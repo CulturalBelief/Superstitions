@@ -120,8 +120,7 @@ The associated manuscript is titled:
 The paper introducing BAVAR is currently under review. A public version of the paper and its BibTeX citation will be made available upon publication.
 
 ## License
-
-The repository currently displays an **MIT license** for code. 
+This repository is licensed under the MIT License. 
 ---
 
 <div align="center">
