@@ -102,15 +102,6 @@ Overall score = %Correct + 0.5 × %Partially Correct
 ```
 
 For True/False verification, **pair accuracy** is the percentage of matched True/False pairs for which **both** statements are classified correctly. Attribution is evaluated at both specific-culture and broader-region levels.
-
-
-
-Source files, exact dataset columns, model versions, and execution commands will be documented in their corresponding directories when released. No script is advertised as runnable until its implementation has been uploaded.
-
-## Responsible use
-
-Cultural superstitions are **documented associations**, not universal characteristics of communities or people. Researchers should not use a culture label to infer a person's beliefs, prescribe behavior to an individual, or treat these associations as verified causal claims. Preserve source provenance and review licensing and quotation rights before redistributing material derived from books.
-
 ## Citation
 
 The associated manuscript is titled:
