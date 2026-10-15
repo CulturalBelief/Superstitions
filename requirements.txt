@@ -1,0 +1,12 @@
+numpy
+pandas
+openai
+tqdm
+scikit-learn
+scipy
+sentence-transformers
+transformers
+torch
+rouge-score
+nltk
+sacrebleu
