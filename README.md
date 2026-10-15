@@ -130,7 +130,7 @@ The associated manuscript is titled:
 
 > **BAVAR: Belief-Aware Verification, Attribution, and Reasoning for Cultural Superstitions in Large Language Models**
 
-A formal paper link and BibTeX citation will be added when a public version is available. Please do not infer a publication venue or author list from this repository template.
+The paper introducing BAVAR is currently under review. A public version of the paper and its BibTeX citation will be made available upon publication.
 
 ## License
 
